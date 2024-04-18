@@ -17,4 +17,4 @@ This is a solution to the [FAQ_accordion challenge on Frontend Mentor](https://w
 
 ## Author
 
-- Website - [zhihao2808](https://www.your-site.com)
+- Website - [zhihao2808](https://github.com/zhihao2808)
