@@ -8,7 +8,7 @@ This is a solution to the [FAQ_accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Live Site URL: [Click me go to the website](https://zhihao2808.github.io/Recipe_practice/)
+- Live Site URL: [Click me go to the website](https://zhihao2808.github.io/FAQ_accordion_practice/)
 
 ### Built with
 
